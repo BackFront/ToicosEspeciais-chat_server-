@@ -1,0 +1,10 @@
+C:\Users\aluno.BANDNET\Downloads\Guia 04 - LibUDPChat - Exemplo\LibUDPChat\bin\Debug\LibUDPChat.exe.config
+C:\Users\aluno.BANDNET\Downloads\Guia 04 - LibUDPChat - Exemplo\LibUDPChat\bin\Debug\LibUDPChat.exe
+C:\Users\aluno.BANDNET\Downloads\Guia 04 - LibUDPChat - Exemplo\LibUDPChat\bin\Debug\LibUDPChat.pdb
+C:\Users\aluno.BANDNET\Downloads\Guia 04 - LibUDPChat - Exemplo\LibUDPChat\bin\Debug\LibUDP.dll
+C:\Users\aluno.BANDNET\Downloads\Guia 04 - LibUDPChat - Exemplo\LibUDPChat\obj\Debug\LibUDPChat.csprojResolveAssemblyReference.cache
+C:\Users\aluno.BANDNET\Downloads\Guia 04 - LibUDPChat - Exemplo\LibUDPChat\obj\Debug\LibUDPChat.FormChat.resources
+C:\Users\aluno.BANDNET\Downloads\Guia 04 - LibUDPChat - Exemplo\LibUDPChat\obj\Debug\LibUDPChat.Properties.Resources.resources
+C:\Users\aluno.BANDNET\Downloads\Guia 04 - LibUDPChat - Exemplo\LibUDPChat\obj\Debug\LibUDPChat.csproj.GenerateResource.Cache
+C:\Users\aluno.BANDNET\Downloads\Guia 04 - LibUDPChat - Exemplo\LibUDPChat\obj\Debug\LibUDPChat.exe
+C:\Users\aluno.BANDNET\Downloads\Guia 04 - LibUDPChat - Exemplo\LibUDPChat\obj\Debug\LibUDPChat.pdb
